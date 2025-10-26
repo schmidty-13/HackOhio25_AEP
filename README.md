@@ -58,7 +58,7 @@ When the "Find Remediation Plan" button is clicked, the `/api/find-remediation` 
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/aep-dynamic-grid-analyzer.git
+    git clone https://github.com/schmidty-13/HackOhio25_AEP.git
     cd HackOhio25_AEP/osu_hackathon
     ```
 
